@@ -9,6 +9,7 @@
 
 <br>
 
+<img align="right" src="A.png" alt="Ilustração do Setup" width="420"/>
 
 ### 👩‍💻 Sobre mim
 
@@ -23,13 +24,27 @@ Sou estudante de Desenvolvimento Web e Cibersegurança, com foco em criar soluç
 
 <br>
 
-### 💻 Principais habilidades
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react" />
+### 💻 Habilidades principais
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=ts" />
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=react" />
+</div>
 
 <br>
 
 ### 🛠️ Ferramentas
-<img src="https://skillicons.dev/icons?i=vscode,git,github,sqlite,aws,npm" />
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://skillicons.dev/icons?i=vscode" />
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=sqlite" />
+  <img src="https://skillicons.dev/icons?i=aws" />
+  <img src="https://skillicons.dev/icons?i=npm" />
+</div>
 
 <br>
 
@@ -68,6 +83,15 @@ Sou estudante de Desenvolvimento Web e Cibersegurança, com foco em criar soluç
 
 <br>
 
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="160" src="https://streak-stats.demolab.com?user=amandaefgsantana-eng&theme=tokyonight&hide_border=true" />
+  
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=amandaefgsantana-eng&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandaefgsantana-eng&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
 <br><br>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
