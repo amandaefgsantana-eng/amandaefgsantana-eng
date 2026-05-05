@@ -20,7 +20,7 @@ Em breve, realizarei um intercâmbio acadêmico na Inglaterra (Cambridge/Oxford)
 
 ### 📚 Estudando
 <img src="https://img.shields.io/badge/Cibersegurança-ff69b4?style=for-the-badge" /> 
-<img src="https://img.shields.io/badge/Engenharia_de_Prompts-ff69b4?style=for-the-badge" /> 
+<img src="https://img.shields.io/badge/Desenvolvimento-web-ff69b4?style=for-the-badge" /> 
 <img src="https://img.shields.io/badge/Inteligência_Artificial-ff69b4?style=for-the-badge" />
 
 <br>
@@ -36,9 +36,8 @@ Em breve, realizarei um intercâmbio acadêmico na Inglaterra (Cambridge/Oxford)
 <br>
 
 ### ✉️ Contato
-<a href="mailto:gabrielfolks.x@gmail.com"><img src="https://img.shields.io/badge/EMAIL-ff69b4?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
-<a href="https://www.linkedin.com/in/gabrielἰησοῦς/"><img src="https://img.shields.io/badge/LINKEDIN-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-<a href="https://wa.me/5561995686131"><img src="https://img.shields.io/badge/WHATSAPP-ff69b4?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="mailto:amandaefg.santana@gmail.com"><img src="https://img.shields.io/badge/EMAIL-ff69b4?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
+<a href="https://wa.me/556196867645"><img src="https://img.shields.io/badge/WHATSAPP-ff69b4?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
 <br clear="all"/>
 
