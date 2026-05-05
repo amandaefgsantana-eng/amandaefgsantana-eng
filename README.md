@@ -1,8 +1,8 @@
 <div align="center">
-  <h1>GABRIEL DE JESUS SANTOS</h1>
+  <h1>Amanda Silva</h1>
 
   <p>
-    <strong>Estudante da Escola do Futuro de Goiás | Fundador da heisuscode</strong><br>
+    <strong>Estudante da Escola do Futuro de Goiás</strong><br>
     <em>Construindo sistemas que resolvem problemas reais através da tecnologia.</em>
   </p>
 </div>
