@@ -26,12 +26,12 @@ Em breve, realizarei um intercâmbio acadêmico na Inglaterra (Cambridge/Oxford)
 <br>
 
 ### 💻 Principais habilidades
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,next,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react" />
 
 <br>
 
 ### 🛠️ Ferramentas
-<img src="https://skillicons.dev/icons?i=vscode,git,github,obsidian,sqlite,raspberrypi,linux,azure,aws,ps,npm" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github,obsidian,sqlite,aws,npm" />
 
 <br>
 
