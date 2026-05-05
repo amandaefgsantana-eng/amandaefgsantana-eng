@@ -9,8 +9,6 @@
 
 <br>
 
-<img align="right" src="A.png" alt="Ilustração do Setup" width="420"/>
-
 ### 👩‍💻 Sobre mim
 
 Olá! Meu nome é Amanda Silva.  
