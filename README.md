@@ -19,12 +19,14 @@ Sou estudante de Desenvolvimento Web e Cibersegurança, com foco em criar soluç
 <br>
 
 ### 📚 Estudando
-<img src="https://img.shields.io/badge/Cibersegurança-ff69b4?style=for-the-badge" /> 
-<img src="https://img.shields.io/badge/Desenvolvimento_Web-ff69b4?style=for-the-badge" /> 
+<div style="display: flex; gap: 10px;">
+  <img src="https://img.shields.io/badge/Cibersegurança-ff69b4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Desenvolvimento_Web-ff69b4?style=for-the-badge" />
+</div>
 
 <br>
 
-### 💻 Habilidades principais
+### 💻 Habilidades
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://skillicons.dev/icons?i=html" />
   <img src="https://skillicons.dev/icons?i=css" />
@@ -32,12 +34,6 @@ Sou estudante de Desenvolvimento Web e Cibersegurança, com foco em criar soluç
   <img src="https://skillicons.dev/icons?i=ts" />
   <img src="https://skillicons.dev/icons?i=nodejs" />
   <img src="https://skillicons.dev/icons?i=react" />
-</div>
-
-<br>
-
-### 🛠️ Ferramentas
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://skillicons.dev/icons?i=vscode" />
   <img src="https://skillicons.dev/icons?i=git" />
   <img src="https://skillicons.dev/icons?i=github" />
@@ -68,14 +64,14 @@ Sou estudante de Desenvolvimento Web e Cibersegurança, com foco em criar soluç
       <h3>📺 Mídia Indoor</h3>
       <p><strong>Sistema de Comunicação Digital</strong></p>
       <p align="left">
-        Solução moderna e sustentável que substitui cartazes físicos por painéis digitais dinâmicos, otimizando a comunicação.
+        Solução moderna e sustentável que substitui cartazes físicos por painéis digitais dinâmicos.
       </p>
     </td>
     <td width="50%" align="center">
       <h3>🏥 Sentinela (SIGH)</h3>
       <p><strong>Sistema Hospitalar Inteligente</strong></p>
       <p align="left">
-        Plataforma voltada à área da saúde, com foco na organização de dados clínicos, automação de triagem e prevenção de erros médicos.
+        Plataforma para organização de dados clínicos e automação de triagem.
       </p>
     </td>
   </tr>
