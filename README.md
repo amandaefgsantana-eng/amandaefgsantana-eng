@@ -21,7 +21,6 @@ Em breve, realizarei um intercâmbio acadêmico na Inglaterra (Cambridge/Oxford)
 ### 📚 Estudando
 <img src="https://img.shields.io/badge/Cibersegurança-ff69b4?style=for-the-badge" /> 
 <img src="https://img.shields.io/badge/Desenvolvimento-web-ff69b4?style=for-the-badge" /> 
-<img src="https://img.shields.io/badge/Inteligência_Artificial-ff69b4?style=for-the-badge" />
 
 <br>
 
