@@ -31,7 +31,7 @@ Em breve, realizarei um intercâmbio acadêmico na Inglaterra (Cambridge/Oxford)
 <br>
 
 ### 🛠️ Ferramentas
-<img src="https://skillicons.dev/icons?i=vscode,git,github,obsidian,sqlite,aws,npm" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github,sqlite,aws,npm" />
 
 <br>
 
