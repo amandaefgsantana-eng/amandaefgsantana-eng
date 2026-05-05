@@ -1,6 +1,8 @@
 <div align="center">
   <h1>AMANDA SILVA</h1>
 
+  <img align="right" src="hellokit.png" width="420"/>
+
   <p>
     <strong>Estudante da Escola do Futuro de Goiás</strong><br>
     <em>Criando soluções inteligentes e inovadoras através da tecnologia.</em>
