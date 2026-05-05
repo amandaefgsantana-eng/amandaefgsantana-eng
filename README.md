@@ -2,7 +2,7 @@
   <h1>AMANDA SILVA</h1>
 
   <p>
-    <strong>Estudante da Escola do Futuro de Goiás | Fundadora da heisuscode</strong><br>
+    <strong>Estudante da Escola do Futuro de Goiás</strong><br>
     <em>Criando soluções inteligentes e inovadoras através da tecnologia.</em>
   </p>
 </div>
@@ -13,13 +13,14 @@
 
 ### 👩‍💻 Sobre mim
 
-Olá! Meu nome é Amanda Silva. Sou participante do programa **Jornada para o Futuro**, cursando Desenvolvimento Web e Cibersegurança 
+Olá! Meu nome é Amanda Silva.  
+Sou estudante de Desenvolvimento Web e Cibersegurança, com foco em criar soluções práticas e eficientes. Atualmente participo do programa **Jornada para o Futuro** e estou em busca da minha primeira oportunidade na área de tecnologia.
 
 <br>
 
 ### 📚 Estudando
 <img src="https://img.shields.io/badge/Cibersegurança-ff69b4?style=for-the-badge" /> 
-<img src="https://img.shields.io/badge/Desenvolvimento-web-ff69b4?style=for-the-badge" /> 
+<img src="https://img.shields.io/badge/Desenvolvimento_Web-ff69b4?style=for-the-badge" /> 
 
 <br>
 
@@ -34,8 +35,12 @@ Olá! Meu nome é Amanda Silva. Sou participante do programa **Jornada para o Fu
 <br>
 
 ### ✉️ Contato
-<a href="mailto:amandaefg.santana@gmail.com"><img src="https://img.shields.io/badge/EMAIL-ff69b4?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
-<a href="https://wa.me/556196867645"><img src="https://img.shields.io/badge/WHATSAPP-ff69b4?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="mailto:amandaefg.santana@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-ff69b4?style=for-the-badge&logo=gmail&logoColor=white" />
+</a> 
+<a href="https://wa.me/556196867645">
+  <img src="https://img.shields.io/badge/WHATSAPP-ff69b4?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
 
 <br clear="all"/>
 
@@ -48,12 +53,16 @@ Olá! Meu nome é Amanda Silva. Sou participante do programa **Jornada para o Fu
     <td width="50%" align="center">
       <h3>📺 Mídia Indoor</h3>
       <p><strong>Sistema de Comunicação Digital</strong></p>
-      <p align="left">Solução moderna e sustentável que substitui cartazes físicos por painéis digitais dinâmicos, otimizando a comunicação.</p>
+      <p align="left">
+        Solução moderna e sustentável que substitui cartazes físicos por painéis digitais dinâmicos, otimizando a comunicação.
+      </p>
     </td>
     <td width="50%" align="center">
       <h3>🏥 Sentinela (SIGH)</h3>
       <p><strong>Sistema Hospitalar Inteligente</strong></p>
-      <p align="left">Plataforma voltada à área da saúde, com foco na organização de dados clínicos, automação de triagem e prevenção de erros médicos.</p>
+      <p align="left">
+        Plataforma voltada à área da saúde, com foco na organização de dados clínicos, automação de triagem e prevenção de erros médicos.
+      </p>
     </td>
   </tr>
 </table>
@@ -63,8 +72,11 @@ Olá! Meu nome é Amanda Silva. Sou participante do programa **Jornada para o Fu
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=amandaefgsantana-eng&theme=tokyonight&hide_border=true&background=0d1117" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandaefgsantana-eng&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img height="160" src="https://streak-stats.demolab.com?user=amandaefgsantana-eng&theme=tokyonight&hide_border=true" />
+  
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=amandaefgsantana-eng&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandaefgsantana-eng&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <br><br>
