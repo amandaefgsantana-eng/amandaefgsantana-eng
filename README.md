@@ -13,8 +13,7 @@
 
 ### 👩‍💻 Sobre mim
 
-Olá! Meu nome é Amanda Silva. Sou participante do programa **Jornada para o Futuro**, cursando Desenvolvimento Web e Cibersegurança, e fundadora da **heisuscode**.  
-Em breve, realizarei um intercâmbio acadêmico na Inglaterra (Cambridge/Oxford) e estou em busca da minha primeira oportunidade na área de tecnologia.
+Olá! Meu nome é Amanda Silva. Sou participante do programa **Jornada para o Futuro**, cursando Desenvolvimento Web e Cibersegurança 
 
 <br>
 
